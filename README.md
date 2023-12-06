@@ -7,3 +7,7 @@ It allows the users to capture items via the app's camera.
 *Google Cloud Vision API* swiftly categorizes them. 
 The app interface displays a detailed list.
 *Google Material Design* ensures easy navigation.
+The additional features that are implemented in this application are: 
+*Travel Packing Suggestions* - This feature allows to provide a rough suggestions for the journey and for the packing according to the destination place.
+*Reminders* - Provides timely notifications for any schedules related to the journey.
+*CheerPack* - It is and engaging section in our app that includes fun tricks and tips that would make your journey easier and would make it easy to handle the items.
