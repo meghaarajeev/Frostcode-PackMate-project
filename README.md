@@ -12,3 +12,5 @@ The additional features that are implemented in this application are:
 <li>CheerPack - It is and engaging section in our app that includes fun tricks and tips that would make your journey easier and would make it easy to handle the items.</li>
 </p>
 </ul>
+                 <p> We have defined our idea and features. We are developing our app on React Native. We have developed the code for Integration of Google Cloud Vision API for our Application. Created Wireframe for our app’s interface by using Figma, which is on our GitHub Repository.  
+                  Looking for our next step, i.e. to implement image recognition with Google Cloud Vision API and to create a Database Setup for storing user data and packing lists.</p>
