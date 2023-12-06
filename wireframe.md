@@ -13,7 +13,7 @@ PackMate's Homepage allows users to use the prominent features of the app.
 <ul>
   <li>Camera Icon: Enable user to take pictures of their luggage or packed items they intend to scan using Google Cloud Vision API.</li>
   <li>Gallery Icon: Enable user to surf freely through their image gallery and upload an image for scanning.</li>
-  <li>Reverse Camera: Enable user to use both front and back cameras.</li>
+  <li>Reverse Camera: Enable users to use both front and back cameras.</li>
 </ul>
 
 # Item Catalog📃
@@ -21,7 +21,7 @@ PackMate's Homepage allows users to use the prominent features of the app.
 <ul>
   <li> This is the interface of the app that delivers the user with the Item list </li>
   <li> We intend to enhance this section further using Google Material Design</li>
-  <li> The purpose of using Google Assistant in our app is only for reference if the user prefer voice based interaction </li>
+  <li> The purpose of using Google Assistant in our app is only for reference if the user prefers voice-based interaction </li>
 </ul>
 
 
